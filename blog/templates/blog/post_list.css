@@ -1,0 +1,40 @@
+html{
+	margin: 15%;
+}
+
+h1{
+	font-family: 'Staatliches', cursive;
+	color: rgb(143,188,143);
+	font-size: 475%;
+	display: block;
+	padding: 10%, 45%, 5%, 45%;
+	justify-content: center;
+}
+
+h2{
+	color: black;
+	border-bottom-style: groove;
+	font-variant-caps:all-small-caps;
+	font-size:150%; 
+	
+}
+
+body{
+	font-family: Helvetica;
+	color: dimgray;
+	font-size: 125%;
+	background-color: rgba(216,228,188,0.10);
+	
+}
+
+time{
+	color: lightgrey;
+	font-size: 85%;
+	font-variant-caps: unicase;
+
+}
+
+a:link, a:hover, a:active, a:visited{
+	color: black;
+	text-decoration: none;
+}
